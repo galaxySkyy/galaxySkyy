@@ -10,5 +10,5 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 
- [Get Started](guide.md)
+ [Get Started](library/F9开发框架/框架简介/010-概述.md)
 
